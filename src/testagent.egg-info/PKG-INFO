@@ -1,0 +1,41 @@
+Metadata-Version: 2.4
+Name: testagent
+Version: 0.1.0
+Summary: Learning project for developing AI agents.
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: mcp[cli]
+
+# Project Name
+
+## Overview
+Short summary of what this project does.
+
+## Features
+- Feature 1
+- Feature 2
+
+## Getting Started
+
+### Prerequisites
+- Requirement 1
+- Requirement 2
+
+### Installation
+```bash
+# clone and install
+git clone <repo-url>
+cd <repo-name>
+```
+
+## Usage
+```bash
+# example usage command
+```
+
+## Development
+- How to run tests
+- Linting/formatting steps
+
+## License
+Specify the license or link to LICENSE.

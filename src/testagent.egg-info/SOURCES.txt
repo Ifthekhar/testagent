@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+src/env.py
+src/main.py
+src/mcp/server.py
+src/testagent.egg-info/PKG-INFO
+src/testagent.egg-info/SOURCES.txt
+src/testagent.egg-info/dependency_links.txt
+src/testagent.egg-info/requires.txt
+src/testagent.egg-info/top_level.txt
+tests/test_main.py
