@@ -1,2 +1,16 @@
+[project]
+name = "testagent"
+version = "0.1.0"
+description = "Learning project for developing AI agents."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "mcp[cli]",
+]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
 [tool.pytest.ini_options]
 pythonpath = ["."]

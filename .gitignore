@@ -1,5 +1,6 @@
 # Agent instructions (local)
 AGETNS.md
+.env
 
 # Python
 __pycache__/
